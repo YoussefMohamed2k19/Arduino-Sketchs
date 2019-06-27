@@ -1,7 +1,10 @@
 # Arduino-Sketchs
 
-**Connection:**
-
+**Connection:**<br>
+  Pin1 --> 3.3V<br>
+  Pin2 --> A0<br>
+  Pin3 --> GND<br>
+  
 **Description sketchs:**
 
 * IoT Digital Thermometer using NodeMCU and LM35:<br>
