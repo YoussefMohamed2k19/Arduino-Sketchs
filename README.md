@@ -1,6 +1,7 @@
 # Arduino-Sketchs
 
-**Connection:**<br>
+**Connections:**<br>
+
   Pin1 --> 3.3V<br>
   Pin2 --> A0<br>
   Pin3 --> GND<br>
