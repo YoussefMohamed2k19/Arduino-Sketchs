@@ -1,6 +1,6 @@
 #include <ESP8266WiFi.h>
-const char* ssid     = "Mohamed"; // Your ssid
-const char* password = "10m20a30y"; // Your Password
+const char* ssid     = "XXXXXX"; // Your ssid
+const char* password = "XXXX"; // Your Password
 float temp_celsius = 0;
 float temp_fahrenheit = 0;
 WiFiServer server(80);
